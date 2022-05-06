@@ -98,3 +98,4 @@ for faixa in ['Zero','Muito Baixo','Minimo','Alvo','Maximo','Muito Alto']:
 
 
 capi.applycfg()
+pass
